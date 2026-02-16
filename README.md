@@ -34,6 +34,9 @@ Python, Pandas, NumPy, Scikit-learn
 
 Feel free to review the code and share your feedback!
 
+Author
+
+Mustafa Alpergün
 
 Türkçe 🇹🇷
 
@@ -70,11 +73,6 @@ KÖTÜ HUYLU (M)
 Python, Pandas, NumPy, Scikit-learn
 
 Kodları incelemek ve geliştirme önerilerinizi paylaşmak isterseniz geri bildirimleriniz benim için çok değerli! 👇
-
-
-Author
-
-Mustafa Alpergün
 
 Yazar
 
